@@ -1,0 +1,9 @@
+\documentclass[tikz,border=2pt]{standalone} 
+\begin{document} 
+\begin{tikzpicture}
+\draw[step=1,color=gray!40] (-2,-2) grid (2,2);
+\path (1,1) coordinate (p1);
+\coordinate (p2) at ( 2, 0);
+\draw[dotted, red] (p1) -- (p2)  ;
+\end{tikzpicture}
+\end{document}
