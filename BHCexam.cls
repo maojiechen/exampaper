@@ -90,7 +90,7 @@ headsep=0.5cm]{geometry}
       \setbox\z@\vbox\bgroup
     \fi
   }{%
-    \ifprintanswers
+    \ifprintanswers 
       \end{TheSolution}%
       \endgroup
     \else
@@ -211,7 +211,7 @@ D. #4 \\
 
 \newcommand{\xx}[1]{
   \ifprintanswers
-    \hfill(\hspace{0.5em}~#1~\hspace{0.5em})
+    \hfill(\hspace{0.5em}~{\cyan #1}~\hspace{0.5em})
   \else
     \hfill{~\hspace{1cm}~}
   \fi}
@@ -224,19 +224,19 @@ D. #4 \\
 }
 \newcommand{\stk}[1]{
   \ifprintanswers
-    \underline{~#1~}
+    \underline{~{\cyan #1}~}
   \else
     \underline{~\hspace{1cm}~}
   \fi}
 \newcommand{\mtk}[1]{
   \ifprintanswers
-    \underline{~#1~}
+    \underline{~{\cyan #1}~}
   \else
     \underline{~\hspace{2cm}~}
   \fi}
 \newcommand{\ltk}[1]{
   \ifprintanswers
-    \underline{~#1~}
+    \underline{~{\cyan #1}~}
   \else
     \underline{~\hspace{3cm}~}
   \fi}
@@ -288,7 +288,7 @@ D. #4 \\
 \renewcommand{\ge}{\geqslant}
 \renewcommand{\leq}{\leqslant}
 \renewcommand{\le}{\leqslant}
-\newcommand{\xx}{\hfill(\hspace{2.5em})}
+%\newcommand{\xx}{\hfill(\hspace{2.5em})}
 \newcommand{\tk}{\underline{\hspace{3em}}}
 \newcommand{\qs}{\question}
 \newcommand{\inR}{\in\mathbf{R}}
