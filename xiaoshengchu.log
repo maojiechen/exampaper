@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.19)  10 AUG 2023 20:15
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.19)  13 DEC 2023 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1526,7 +1526,198 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 )
-(./xiaoshengchu.aux)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
+2023/02/03 5.02c tkz-euclide.sty
+Package: tkz-euclide  2023/02/03 5.02c for pure Euclidean Geometry 
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryangles.code.tex
+File: tikzlibraryangles.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@layerbox@background=\box79
+\pgf@layerboxsaved@background=\box80
+)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.markings.code.tex
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.markings.code.tex))
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.shapes.code.tex
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.shapes.code.tex))
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.text.code.tex
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box81
+)
+\tikz@lib@dec@te@box=\box82
+)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrary
+shapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarythrough.code.tex
+File: tikzlibrarythrough.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+Package: xfp 2023-02-02 L3 Floating point unit
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count447
+))
+\tkzRadius=\dimen417
+\tkzLength=\dimen418
+\tkz@radi=\dimen419
+\tkz@ax=\dimen420
+\tkz@ay=\dimen421
+\tkz@bx=\dimen422
+\tkz@by=\dimen423
+\tkz@cx=\dimen424
+\tkz@cy=\dimen425
+\tkz@dx=\dimen426
+\tkz@dy=\dimen427
+\tkz@cntmk=\count448
+
+Local configuration file tkz-euclide.cfg found and used
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-euclide.cfg
+2023/02/03 5.02c tkz-euclide.cfg
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-base.tex
+2023/02/03 5.02c tkz-tools-eu-base.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-utilitie
+s.tex
+2023/02/03 5.02c tkz-tools-eu-utilities.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-BB.tex
+2023/02/03 5.02c tkz-obj-eu-BB.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-grids.tex
+2023/02/03 5.02c tkz-obj-eu-grids.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-lib-eu-marks.tex
+2023/02/03 5.02c tkz-lib-eu-marks.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-text.tex
+2023/02/03 5.02c tkz-tools-eu-text.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-lib-eu-shape.tex
+2023/02/03 5.02c tkz-lib-eu-shape.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-axesmin.te
+x
+2023/02/03 5.02c tkz-obj-eu-axesmin
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-colors.t
+ex
+2023/02/03 5.02c tkz-tools-eu-colors
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points.tex
+2023/02/03 5.02c tkz-obj-eu-points.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-points.te
+x
+2023/01/24 5.01c tkz-draw-points.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points.tex
+2023/02/03 5.02c tkz-obj-eu-points.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-by.
+tex
+2023/02/03 5.02c tkz-tools-eu-points-by.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-math.tex
+2023/02/03 5.02c tkz-tools-eu-math.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-intersec
+tions.tex
+2023/02/03 5.02c tkz-tools-eu-intersections.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-wit
+h.tex
+2023/02/03 5.02c tkz-obj-eu-points-with.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-spc
+.tex
+2023/02/03 5.02c tkz-obj-el-points.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-tools-eu-angles.t
+ex
+2023/02/03 5.02c tkz-tools-eu-angles.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-points-rnd
+.tex
+2023/02/03 5.02c tkz-obj-eu-points-rnd.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-circles.te
+x
+2023/02/03 5.02c tkz-obj-eu-circles.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-circles-by
+.tex
+2023/02/03 5.02c tkz-obj-eu-circles.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-lines.tex
+2023/02/03 5.02c tkz-obj-eu-lines.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-polygons.t
+ex
+2023/02/03 5.02c tkz-obj-eu-polygons.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-obj-eu-triangles.
+tex
+2023/02/03 5.02c tkz-obj-eu-triangles.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-lines.tex
+2023/02/03 5.02c tkz-obj-eu-draw-lines.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-circles.t
+ex
+2023/02/03 5.02c tkz-obj-eu-draw-circles.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-polygons.
+tex
+2023/02/03 5.02c tkz-obj-eu-polygons.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-angles.te
+x
+2023/02/03 5.02c tkz-tool-eu-angles.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-sectors.t
+ex
+2023/02/03 5.02c tkz-obj-eu-sectors.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-compass.t
+ex
+2023/02/03 5.02c tkz-obj-eu-compass.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-show.tex
+2023/02/03 5.02c tkz-obj-eu-show.tex
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tkz-euclide/tkz-draw-eu-protracto
+r.tex
+2023/02/03 5.02c tkz-obj-eu-protractor.tex
+)) (./xiaoshengchu.aux)
 \openout1 = `xiaoshengchu.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 4.
@@ -1648,9 +1839,25 @@ LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-) [1
+)
+Overfull \hbox (19.93076pt too wide) in paragraph at lines 23--38
+[]$[]$ $[]$ 
+ []
+
+File: tiankong.jpg Graphic file (type bmp)
+<tiankong.jpg>
+[1
 
 ]
+Overfull \hbox (19.93076pt too wide) in paragraph at lines 67--94
+[]$[]$ $[]$ 
+ []
+
+
+Overfull \hbox (19.93076pt too wide) in paragraph at lines 95--111
+[]$[]$ $[]$ 
+ []
+
 
 Package fontspec Warning: Font "FandolKai-Regular" does not contain requested
 (fontspec)                Script "CJK".
@@ -1667,9 +1874,16 @@ Package fontspec Info: Font family 'FandolKai-Regular(0)' created for font
 (fontspec)             <->"[FandolKai-Regular.otf]/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-[2] [3] [4]
-This exam contains 27 questions with 0 parts, 0 subparts, and 0 subsubparts.
-This exam has a total of 29 points.
+File: mianji.png Graphic file (type bmp)
+<mianji.png>
+
+Overfull \hbox (21.68732pt too wide) in paragraph at lines 129--148
+[]$[]$ $[]$ $[]$ 
+ []
+
+[2] [3] [4] [5]
+This exam contains 35 questions with 0 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 49 points.
 This exam has a total of 0 bonus points.
 (./xiaoshengchu.aux)
 
@@ -1680,12 +1894,12 @@ Package rerunfilecheck Info: File `xiaoshengchu.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45958 strings out of 478630
- 1098601 string characters out of 5846970
- 1890018 words of memory out of 5000000
- 65245 multiletter control sequences out of 15000+600000
+ 49529 strings out of 478630
+ 1187088 string characters out of 5846970
+ 1889018 words of memory out of 5000000
+ 68656 multiletter control sequences out of 15000+600000
  530983 words of font info for 130 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 104i,11n,111p,741b,661s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,12n,111p,1159b,1002s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on xiaoshengchu.pdf (4 pages).
+Output written on xiaoshengchu.pdf (5 pages).
